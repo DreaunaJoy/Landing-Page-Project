@@ -11,7 +11,7 @@ body {
 .header {
     min-height: 75px;
     text-decoration: underline;
-    background-color: bisque;
+    background-color: white;
     color: black;
     display: flex;
     align-items: center;
@@ -64,7 +64,7 @@ ul {
 }
 
 .hero p {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .image-container {
